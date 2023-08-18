@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Jecar's react project from Jonas Schmedtmann's Ultimate React Course. Built with React Query and Supabase.
+This is a booking app created by using ReactJS, React Query, Styled Components, Supabase and Vite.
